@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1460053503 source:/home/lucas/Programas/project_button/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"CButton.h"
+	"BtnSprite.h"
+
+1460053429 /home/lucas/Programas/project_button/CButton.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1460052852 source:/home/lucas/Programas/project_button/BtnSprite.cpp
+	"BtnSprite.h"
+
+1460052789 /home/lucas/Programas/project_button/BtnSprite.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1460053442 source:/home/lucas/Programas/project_button/CButton.cpp
+	"CButton.h"
+
