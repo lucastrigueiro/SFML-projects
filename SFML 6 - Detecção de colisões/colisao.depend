@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1463684339 source:/home/lucas/github/SFML-projects/7 colisao/Caixa.cpp
+	"Caixa.h"
+
+1463683873 /home/lucas/github/SFML-projects/7 colisao/Caixa.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1463681861 source:/home/lucas/github/SFML-projects/7 colisao/Carro.cpp
+	"Carro.h"
+
+1463681861 /home/lucas/github/SFML-projects/7 colisao/Carro.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1465595907 source:/home/lucas/github/SFML-projects/7 colisao/Game.cpp
+	"Game.h"
+
+1465595863 /home/lucas/github/SFML-projects/7 colisao/Game.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Carro.h"
+	"Caixa.h"
+	"TileMap.h"
+	<stdlib.h>
+
+1461641227 /home/lucas/github/SFML-projects/7 colisao/TileMap.h
+	<SFML/Graphics.hpp>
+
+1461764414 source:/home/lucas/github/SFML-projects/7 colisao/main.cpp
+	"Game.h"
+
