@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459028167 source:/home/lucas/Programas/projeto_palhaco/Game.cpp
+	"Game.h"
+
+1459028167 /home/lucas/Programas/projeto_palhaco/Game.h
+	<SFML/Graphics.hpp>
+	"Palhaco.h"
+
+1459028310 /home/lucas/Programas/projeto_palhaco/Palhaco.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1459020242 source:/home/lucas/Programas/projeto_palhaco/main.cpp
+	"Game.h"
+
+1459028446 source:/home/lucas/Programas/projeto_palhaco/Palhaco.cpp
+	"Palhaco.h"
+
