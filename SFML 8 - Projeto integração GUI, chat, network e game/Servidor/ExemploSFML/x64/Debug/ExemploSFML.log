@@ -1,0 +1,134 @@
+﻿  Source.cpp
+c:\users\lucas\desktop\servidor - copia\exemplosfml\source.cpp(29): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+c:\users\lucas\desktop\servidor - copia\exemplosfml\source.cpp(61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\lucas\desktop\servidor - copia\exemplosfml\source.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1441): error C2672: 'std::invoke': no matching overloaded function found
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(792): note: see reference to function template instantiation '_Rx std::_Invoke_ret<std::_Unforced,void(__cdecl *&)(std::string)>(std::_Forced<_Rx,false>,void (__cdecl *&)(std::string))' being compiled
+          with
+          [
+              _Rx=std::_Unforced
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(847): note: see reference to function template instantiation '_Rx std::_Call_binder<std::_Unforced,,void(__cdecl *)(std::string),_Ty2,std::tuple<>>(std::_Forced<_Rx,false>,std::integer_sequence<_Ty>,_Cv_FD &,_Cv_tuple_TiD &,_Untuple &&)' being compiled
+          with
+          [
+              _Rx=std::_Unforced,
+              _Ty2=std::tuple<>,
+              _Ty=size_t,
+              _Cv_FD=void (__cdecl *)(std::string),
+              _Cv_tuple_TiD=std::tuple<>,
+              _Untuple=std::tuple<>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1349): note: see reference to function template instantiation '_Rx std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>::operator ()<>(void)' being compiled
+          with
+          [
+              _Rx=std::_Unforced
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1348): note: see reference to function template instantiation '_Rx std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>::operator ()<>(void)' being compiled
+          with
+          [
+              _Rx=std::_Unforced
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1417): note: see reference to function template instantiation '_Rx std::_Invoker_functor::_Call<_Callable&,>(std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>)' being compiled
+          with
+          [
+              _Rx=std::_Unforced,
+              _Callable=_Decayed
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1434): note: see reference to function template instantiation '_Rx std::invoke<_Callable&,>(std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>)' being compiled
+          with
+          [
+              _Rx=std::_Unforced,
+              _Callable=_Decayed
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(208): note: see reference to function template instantiation 'void std::_Invoke_ret<_Rx,_Callable&>(std::_Forced<_Rx,true>,_Callable &)' being compiled
+          with
+          [
+              _Rx=void,
+              _Callable=_Decayed
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(206): note: while compiling class template member function 'void std::_Func_impl<_Decayed,_Alloc,_Ret>::_Do_call(void)'
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ret=void
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(134): note: see reference to class template instantiation 'std::_Func_impl<_Decayed,_Alloc,_Ret>' being compiled
+          with
+          [
+              _Alloc=std::allocator<int>,
+              _Ret=void
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(337): note: see reference to class template instantiation 'std::_Is_large<_Myimpl>' being compiled
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(316): note: see reference to function template instantiation 'void std::_Func_class<_Ret>::_Reset_alloc<_Ty,std::allocator<int>>(_Fx &&,const _Alloc &)' being compiled
+          with
+          [
+              _Ret=void,
+              _Ty=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>,
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>,
+              _Alloc=std::allocator<int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(316): note: see reference to function template instantiation 'void std::_Func_class<_Ret>::_Reset_alloc<_Ty,std::allocator<int>>(_Fx &&,const _Alloc &)' being compiled
+          with
+          [
+              _Ret=void,
+              _Ty=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>,
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>,
+              _Alloc=std::allocator<int>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(482): note: see reference to function template instantiation 'void std::_Func_class<_Ret>::_Reset<std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=void,
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\functional(482): note: see reference to function template instantiation 'void std::_Func_class<_Ret>::_Reset<std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>>(_Fx &&)' being compiled
+          with
+          [
+              _Ret=void,
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(153): note: see reference to function template instantiation 'std::function<void (void)>::function<std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(153): note: see reference to function template instantiation 'std::function<void (void)>::function<std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>>(_Fx)' being compiled
+          with
+          [
+              _Fx=std::_Binder<std::_Unforced,void (__cdecl *&)(std::string)>
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(152): note: while compiling class template member function 'std::function<void (void)> tgui::priv::connector<type,Func>::connect(Func,size_t)'
+          with
+          [
+              Func=void (__cdecl *)(std::string)
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(240): note: see reference to function template instantiation 'std::function<void (void)> tgui::priv::connector<type,Func>::connect(Func,size_t)' being compiled
+          with
+          [
+              Func=void (__cdecl *)(std::string)
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(240): note: see reference to class template instantiation 'tgui::priv::connector<type,Func>' being compiled
+          with
+          [
+              Func=void (__cdecl *)(std::string)
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\signal.hpp(354): note: see reference to function template instantiation 'void tgui::Signal::connect<void(__cdecl *)(std::string),>(unsigned int,Func)' being compiled
+          with
+          [
+              Func=void (__cdecl *)(std::string)
+          ]
+  c:\users\lucas\desktop\servidor - copia\exemplosfml\source.cpp(30): note: see reference to function template instantiation 'unsigned int tgui::SignalWidgetBase::connect<void(__cdecl *)(std::string),>(const std::string &,Func)' being compiled
+          with
+          [
+              Func=void (__cdecl *)(std::string)
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(439): note: see reference to class template instantiation 'std::_Ptr_base<_Ty>' being compiled
+          with
+          [
+              _Ty=tgui::ListBox
+          ]
+  c:\users\lucas\desktop\multimidia\tgui-0.7\include\tgui\widgets\listbox.hpp(624): note: see reference to class template instantiation 'std::shared_ptr<tgui::ListBox>' being compiled
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1441): error C2893: Failed to specialize function template 'unknown-type std::invoke(_Callable &&,_Types &&...)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1441): note: With the following template arguments:
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1441): note: '_Callable=void (__cdecl *&)(std::string)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\type_traits(1441): note: '_Types={}'

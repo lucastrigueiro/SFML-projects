@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.cpp(15): warning C4101: 'connType': unreferenced local variable
+Source.cpp(13): warning C4101: 'usuario': unreferenced local variable
+Source.cpp(18): warning C4101: 'received': unreferenced local variable
+  Generating code
+  149 of 150 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    104 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ExemploSFML.vcxproj -> C:\Users\Lucas\Desktop\Servidor\x64\Release\ExemploSFML.exe

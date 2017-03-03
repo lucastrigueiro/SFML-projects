@@ -1,0 +1,29 @@
+﻿  Game.cpp
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(38): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(39): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(40): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(41): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(44): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(45): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\lucas\desktop\projeto bomberman\exemplosfml\TileMap.h(47): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+Game.cpp(190): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Game.cpp(191): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Game.cpp(197): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Game.cpp(198): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Game.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Game.cpp(234): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Game.cpp(243): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Game.cpp(251): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Game.cpp(325): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(332): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(333): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(340): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(347): warning C4305: 'argument': truncation from 'double' to 'float'
+Game.cpp(361): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  9 of 939 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ExemploSFML.vcxproj -> C:\Users\Lucas\Desktop\Projeto bomberman\x64\Release\ExemploSFML.exe
