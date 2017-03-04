@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1461655898 source:/home/lucas/Programas/projeto_tilemaps/Careca.cpp
+	"Careca.h"
+
+1461655113 /home/lucas/Programas/projeto_tilemaps/Careca.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1461655898 source:/home/lucas/Programas/projeto_tilemaps/Dragao.cpp
+	"Dragao.h"
+
+1461655206 /home/lucas/Programas/projeto_tilemaps/Dragao.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1461764414 source:/home/lucas/Programas/projeto_tilemaps/main.cpp
+	"Game.h"
+
+1462067269 /home/lucas/Programas/projeto_tilemaps/Game.h
+	<SFML/Graphics.hpp>
+	"Dragao.h"
+	"Careca.h"
+	"TileMap.h"
+
+1461641227 /home/lucas/Programas/projeto_tilemaps/TileMap.h
+	<SFML/Graphics.hpp>
+
+1462067243 source:/home/lucas/Programas/projeto_tilemaps/Game.cpp
+	"Game.h"
+
