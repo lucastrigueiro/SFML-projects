@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1461655898 source:/home/lucas/github/SFML-projects/6 musica_e_sons/Careca.cpp
+	"Careca.h"
+
+1461655113 /home/lucas/github/SFML-projects/6 musica_e_sons/Careca.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1461655898 source:/home/lucas/github/SFML-projects/6 musica_e_sons/Dragao.cpp
+	"Dragao.h"
+
+1461655206 /home/lucas/github/SFML-projects/6 musica_e_sons/Dragao.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1462855530 source:/home/lucas/github/SFML-projects/6 musica_e_sons/Game.cpp
+	"Game.h"
+
+1462855530 /home/lucas/github/SFML-projects/6 musica_e_sons/Game.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"Dragao.h"
+	"Careca.h"
+	"TileMap.h"
+
+1461641227 /home/lucas/github/SFML-projects/6 musica_e_sons/TileMap.h
+	<SFML/Graphics.hpp>
+
