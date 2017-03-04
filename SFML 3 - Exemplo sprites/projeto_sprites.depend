@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1459471320 source:/home/lucas/Programas/projeto_sprites/main.cpp
+	"Game.h"
+
+1459471734 source:/home/lucas/Programas/projeto_sprites/Game.cpp
+	"Game.h"
+
+1459450816 /home/lucas/Programas/projeto_sprites/Game.h
+	<SFML/Graphics.hpp>
+	"Dragao.h"
+
+1459954443 source:/home/lucas/Programas/projeto_sprites/Dragao.cpp
+	"Dragao.h"
+
+1459471609 /home/lucas/Programas/projeto_sprites/Dragao.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
