@@ -42,7 +42,7 @@ Projeto exemplo do uso de rede. O primeiro cliente é cliente e servidor ao mesm
 
 Visualização: https://youtu.be/0oLiW5TcRK8
 
-##8 - Projeto integração GUI, chat, network e game
+## 8 - Projeto integração GUI, chat, network e game
 
 Projeto de integração de todas as técnicas utilizadas nos projetos anteriores. Também foi adicionando GUI, chat, servidor externo e game sincronizado.
 
